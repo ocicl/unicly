@@ -1,0 +1,10 @@
+* unicly
+
+Common Lisp implementation of RFC 4122 -- not unlike UUID
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mon-key/unicly.git   |
+| commit  | f9bd214  |
+| systems | unicly |
+|---------+-------------------------------------------|
+
